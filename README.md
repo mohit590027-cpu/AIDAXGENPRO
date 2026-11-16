@@ -57,7 +57,7 @@ The application simplifies DAX formula creation and helps Power BI users underst
    `streamlit run app.py`
 
 ## Live Application
-Add your deployed Streamlit application URL here.
+https://mohit590027-cpu-aidaxgenpro-app-ib9far.streamlit.app
 
 ## GitHub Repository
 https://github.com/mohit590027-cpu/AIDAXGENPRO
