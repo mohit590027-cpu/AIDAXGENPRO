@@ -1,68 +1,89 @@
-# AI DAX Generator 🚀
+AI DAX Generator 🚀
 
-## Project Overview
+Project Overview
+
 AI DAX Generator is an AI-powered application that helps users generate DAX formulas using natural language business questions.
 
 The application simplifies DAX formula creation and helps Power BI users understand and validate generated formulas.
 
-## Features
-- **Generate DAX:** Generate DAX formulas from business questions.
-- **Download DAX:** Download generated DAX formulas.
-- **Explanation:** Understand the generated DAX formulas.
-- **Validation:** Validate generated DAX formulas.
+🚀 Live Application
 
-## Technologies Used
-- Python
-- Streamlit
-- Google Gemini API
-- DAX
-- Pandas
+Click Here to Open AI DAX Generator
 
-## Project Structure
-- `app.py` – Main Streamlit application
-- `gemini_service.py` – Gemini API integration
-- `geminimodels.py` – Gemini model configuration
-- `powerbi_schema.txt` – Power BI schema information
-- `requirements.txt` – Project dependencies
-- `.gitignore` – Files excluded from GitHub
+Features
 
-## Installation and Setup
+Generate DAX: Generate DAX formulas from business questions.
 
-1. Clone the repository:
+Download DAX: Download generated DAX formulas.
 
-   `git clone https://github.com/mohit590027-cpu/AIDAXGENPRO.git`
+Explanation: Understand the generated DAX formulas.
 
-2. Open the project folder:
+Validation: Validate generated DAX formulas.
 
-   `cd AIDAXGENPRO`
+Technologies Used
 
-3. Create a virtual environment:
+Python
 
-   `py -m venv .venv`
+Streamlit
 
-4. Activate the environment:
+Google Gemini API
 
-   `.venv\Scripts\activate`
+DAX
 
-5. Install dependencies:
+Pandas
 
-   `pip install -r requirements.txt`
+Project Structure
 
-6. Add your Gemini API key to the `.env` file:
+app.py – Main Streamlit application
 
-   `GEMINI_API_KEY=your_api_key`
+gemini_service.py – Gemini API integration
 
-7. Run the application:
+geminimodels.py – Gemini model configuration
 
-   `streamlit run app.py`
+powerbi_schema.txt – Power BI schema information
 
-## Live Application
-🚀 [Click Here to Open AI DAX Generator](https://mohit590027-cpu-aidaxgenpro-app-ib9far.streamlit.app/)
+requirements.txt – Project dependencies
 
-## GitHub Repository
-https://github.com/mohit590027-cpu/AIDAXGENPRO
+.gitignore – Files excluded from GitHub
 
-## Author
+Installation and Setup
+
+1. Clone the repository
+
+git clone https://github.com/mohit590027-cpu/AIDAXGENPRO.git
+
+2. Open the project folder
+
+cd AIDAXGENPRO
+
+3. Create a virtual environment
+
+py -m venv .venv
+
+4. Activate the environment
+
+.venv\Scripts\activate
+
+5. Install dependencies
+
+pip install -r requirements.txt
+
+6. Configure Gemini API Key
+
+Create a .env file and add:
+
+GEMINI_API_KEY=your_api_key
+
+7. Run the application
+
+streamlit run app.py
+
+GitHub Repository
+
+AI DAX Generator – GitHub
+
+Author
+
 Mohit Sharma
 
 Aspiring Data Analyst | Python | SQL | Excel | Power BI
