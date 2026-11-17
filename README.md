@@ -8,7 +8,7 @@ The application simplifies DAX formula creation and helps Power BI users underst
 
 🚀 Live Application
 
-Click Here to Open AI DAX Generator
+[Click Here to Open AI DAX Generator](https://mohit590027-cpu-aidaxgenpro-app-ib9far.streamlit.app/)
 
 Features
 
@@ -80,7 +80,7 @@ streamlit run app.py
 
 GitHub Repository
 
-AI DAX Generator – GitHub
+[AI DAX Generator – GitHub](https://github.com/mohit590027-cpu/AIDAXGENPRO)
 
 Author
 
